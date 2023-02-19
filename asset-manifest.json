@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hw20-styled/static/css/main.eeca13c3.css",
+    "main.js": "/hw20-styled/static/js/main.816ea28d.js",
+    "static/js/787.2199b795.chunk.js": "/hw20-styled/static/js/787.2199b795.chunk.js",
+    "static/media/free-icon-lock.png": "/hw20-styled/static/media/free-icon-lock.6e91eee52c41b5bb3102.png",
+    "index.html": "/hw20-styled/index.html",
+    "main.eeca13c3.css.map": "/hw20-styled/static/css/main.eeca13c3.css.map",
+    "main.816ea28d.js.map": "/hw20-styled/static/js/main.816ea28d.js.map",
+    "787.2199b795.chunk.js.map": "/hw20-styled/static/js/787.2199b795.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeca13c3.css",
+    "static/js/main.816ea28d.js"
+  ]
+}
